@@ -13,10 +13,20 @@ Today I completed the schematic for the board. I had to chose C0201 parts becaus
 ![SCH_Schematic1_1-P1_2025-11-03](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAxMywicHVyIjoiYmxvYl9pZCJ9fQ==--64aeaefbbe3fde18b62617bd710c6e648cca7e2e/SCH_Schematic1_1-P1_2025-11-03.png)
   
 
-## 11/4/2025 - Added LEDs  
+## 11/4/2025 6 PM - Added LEDs  
 
 I reviewed the schematic and added indication LEDs. I feel that I could now move on to the routing part. This journal was supposed to be posted yesterday night but I didn't.  
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--250dc12eeb344d38d757251744e7798e7488a0ed/image.png)
+  
+
+## 11/4/2025 7 PM - Routed the PCB  
+
+Yeah! Finally routing done. It was dense routing near the GPIOs, I had to choose 0.17mm tracks for this. Nvm, I have finally completed the PCB. And just now I remembered that I forgot SWD header. So, that will be the work for tomorrow along with the silkscreen.
+
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--11767768e4f6427bf2d4605135f0603a1d0cce49/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMwMywicHVyIjoiYmxvYl9pZCJ9fQ==--bc2df1f39ff308ea8847f5ab3e40219007c82122/image.png)
+
   
 
