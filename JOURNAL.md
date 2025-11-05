@@ -30,3 +30,17 @@ Yeah! Finally routing done. It was dense routing near the GPIOs, I had to choose
 
   
 
+## 11/5/2025 - Added Silkscreen and SWD header  
+
+I added the SWD header for debugging. While adding silkscreen I saw that the some power traces were not thick. So, I changed their thickness. After adding the silkscreen, the board looks damn cool.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--ddf8c795e7498ea320dfe7e1f80f9fb5fa87660c/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--9adea605fc65505df3c7a2647bb7288def1d6a54/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUwMywicHVyIjoiYmxvYl9pZCJ9fQ==--dfccd596b1c2eaa8623fca50ef313e30458b8dd5/image.png)
+
+![3D_PCB1_2025-11-05](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUwNywicHVyIjoiYmxvYl9pZCJ9fQ==--7c91027c5d7841d0f633903a745376619c5ec395/3D_PCB1_2025-11-05.png)
+
+![3D_PCB1_2025-11-05(1)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--4b838ead8ef6272f2a2c2bbf843460babc38701c/3D_PCB1_2025-11-05(1).png)  
+
