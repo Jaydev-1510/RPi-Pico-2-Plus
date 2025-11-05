@@ -30,7 +30,7 @@ Yeah! Finally routing done. It was dense routing near the GPIOs, I had to choose
 
   
 
-## 11/5/2025 - Added Silkscreen and SWD header  
+## 11/5/2025 11:09 AM - Added Silkscreen and SWD header  
 
 I added the SWD header for debugging. While adding silkscreen I saw that the some power traces were not thick. So, I changed their thickness. After adding the silkscreen, the board looks damn cool.
 
@@ -43,4 +43,12 @@ I added the SWD header for debugging. While adding silkscreen I saw that the som
 ![3D_PCB1_2025-11-05](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUwNywicHVyIjoiYmxvYl9pZCJ9fQ==--7c91027c5d7841d0f633903a745376619c5ec395/3D_PCB1_2025-11-05.png)
 
 ![3D_PCB1_2025-11-05(1)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--4b838ead8ef6272f2a2c2bbf843460babc38701c/3D_PCB1_2025-11-05(1).png)  
+
+## 11/5/2025 11:39 AM - Update Github  
+
+Added the productions files to the Github with the EasyEDA Pro project file too. I have also added all the images of this project. Now its time to ship the project.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--962c48ad22603199f46c3528623701ecf15d4781/image.png)
+
+  
 
